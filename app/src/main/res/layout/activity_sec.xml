@@ -4,11 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".secActivity">
+    tools:context=".secActivity"
+    android:background="@drawable/bg_splash">
+
     <Button
+        android:id="@+id/logoutBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="LogOut"
-        android:id="@+id/logoutBtn"/>
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="458dp"
+        tools:ignore="MissingConstraints" />
 
 </android.support.constraint.ConstraintLayout>
