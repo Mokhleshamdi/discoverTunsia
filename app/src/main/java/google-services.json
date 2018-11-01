@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "995155030184",
+    "firebase_url": "https://discovertunsia-1541092416590.firebaseio.com",
+    "project_id": "discovertunsia-1541092416590",
+    "storage_bucket": "discovertunsia-1541092416590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995155030184:android:43ce56d4c4666340",
+        "android_client_info": {
+          "package_name": "de.vogella.cameara.discovertunsia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995155030184-ef92cifq6lcmk15ic2dl9e1e4r23i85o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.vogella.cameara.discovertunsia",
+            "certificate_hash": "3609f1d24257dde706229c8d542c682f985aec28"
+          }
+        },
+        {
+          "client_id": "995155030184-isvfa0s38ehml690odpp71rg6edbkekv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOLpYPlQx-i5vXGVRxuP49GAnSOUenRBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995155030184-isvfa0s38ehml690odpp71rg6edbkekv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
